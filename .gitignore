@@ -9,4 +9,7 @@ build/
 coverage/
 __pycache__/
 *.py[cod]
+# 本地运行产生的 SQLite 数据文件
+*.db
+*.db-journal
 .DS_Store
